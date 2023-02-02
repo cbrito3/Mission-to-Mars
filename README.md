@@ -11,7 +11,7 @@
 * The titles for the hemisphere images are added to the dictionary. 
 * The list contains the dictionary of the full-resolution image URL string and title for each hemisphere image. 
 
-
+![hemisphere_img_url](https://github.com/cbrito3/Mission-to-Mars/blob/main/hemisphere_img_url.png)
 
 ## Update the Web App with Mars’s Hemisphere Images and Titles
 * The scraping.py file contains code that retrieves the full-resolution image URL and title for each hemisphere image. 
