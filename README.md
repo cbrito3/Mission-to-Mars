@@ -6,10 +6,12 @@
 * Deliverable 3: Add Bootstrap 3 Components
 
 ## Scrape Full-Resolution Mars Hemisphere Images and Titles 
-* Code is written that retrieves the full-resolution image and title for each hemisphere image. 
+* Code is written that retrieves the full-resolution image and title for each hemisphere image. File name: (Mission_to_Mars_Challenge.ipynb) 
 * The full-resolution images of the hemispheres are added to the dictionary. 
 * The titles for the hemisphere images are added to the dictionary. 
 * The list contains the dictionary of the full-resolution image URL string and title for each hemisphere image. 
+
+
 
 ## Update the Web App with Mars’s Hemisphere Images and Titles
 * The scraping.py file contains code that retrieves the full-resolution image URL and title for each hemisphere image. 
